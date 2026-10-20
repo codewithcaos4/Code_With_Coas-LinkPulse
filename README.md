@@ -28,6 +28,7 @@ Combining a high-performance Flask backend with a modern glassmorphic dashboard,
 - [Testing and Troubleshooting](#testing-and-troubleshooting)
 - [Future Roadmap](#future-roadmap)
 - [License](#license)
+- [Screenshot](#screenshot)
 
 ---
 
@@ -602,6 +603,11 @@ These items represent potential enhancements, not necessarily implemented featur
 ## License
 
 This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
+
+---
+
+## ScreenShot
+![image alt](image_url)
 
 ---
 
